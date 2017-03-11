@@ -440,6 +440,10 @@ nav .active a {
     background-color: #00aca5;
 }
 
+.personal-languages .title .glyphicon{
+    background-color: #333;
+}
+
 /* Interests ------------------------------------------------- */
 
 .interests .title .glyphicon{
